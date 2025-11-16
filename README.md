@@ -1,2 +1,2 @@
 # WEB-LR3
-![Project Screenshot](images/site.png)
+![Project Screenshot](images/figma.png)
